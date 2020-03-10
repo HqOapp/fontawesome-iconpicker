@@ -15,7 +15,7 @@ For feature requests, suggestions or ideas, add `[SUGGESTION]` before the title 
 
 Thanks for wanting to contribute source code to this project. That's great!
 
-- Before starting developing the plugin, you need to run `npm install` and `bower install` inside the plugin folder.
+- Before starting developing the plugin, you need to run `yarn install` and `bower install` inside the plugin folder.
 - Before your commits run always `grunt` inside the plugin folders, to update the dist files (don't modify them manually).
 - Do not change the plugin coding style.
 - Check that the index.html demos aren't broken (modify if necessary).
